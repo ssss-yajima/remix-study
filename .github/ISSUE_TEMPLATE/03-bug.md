@@ -1,5 +1,5 @@
 ---
-name: バグ
+name: Bug
 about: バグの記載はこちらからお願い致します。
 title: "[バグ]"
 labels: "bug"
