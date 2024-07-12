@@ -1,5 +1,5 @@
 ---
-name: タスクx
+name: タスク
 about: 必要な作業依頼などはこちらからissueの登録をお願い致します。
 title: "[タスク]"
 labels: "task"
